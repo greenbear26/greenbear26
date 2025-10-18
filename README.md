@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there
+
+My name is Rishi Ponnapalli, and I'm a student at Northeastern University.
 
 <!--
 **greenbear26/greenbear26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
